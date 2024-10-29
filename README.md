@@ -5,7 +5,7 @@
 
  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-# 👋 Hi there! I'm Ander
+
 I am a Systems Engineering student at the National University of the Altiplano. I have basic knowledge of C++ and Python, but the programming language I master the most is Java. I love learning and developing new, productive, innovative, and creative things.
 - **I am interested in Backend development with Java.**
 - 🌱 Currently, I am learning ...
