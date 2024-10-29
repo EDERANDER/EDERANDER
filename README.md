@@ -20,10 +20,11 @@ I am a Systems Engineering student at the National University of the Altiplano. 
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 </span
  
-<h4> Databases </h4>
+<span>Databases</span>
 <span>
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 </span>
+
 
 <h4> IDE </h4>
 <span>
