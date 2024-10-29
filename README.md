@@ -18,5 +18,4 @@ I am a Systems Engineering student at the National University of the Altiplano. 
 <span> 
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-
 </span
