@@ -42,12 +42,11 @@ I am a Systems Engineering student at the National University of the Altiplano. 
   
  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
 </span>
+
 <h4>Social Media</h4>
 <span>
-  <a href="https://github.com/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <a href="https://linkedin.com/in/yourusername" target="_blank">
+
+  <a href="[https://linkedin.com/in/yourusername](https://www.linkedin.com/in/eder-ander-bravo-531377271/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </span>
