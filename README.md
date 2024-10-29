@@ -46,7 +46,7 @@ I am a Systems Engineering student at the National University of the Altiplano. 
 <h4>Social Media</h4>
 <span>
 
-  <a href="[https://linkedin.com/in/yourusername](https://www.linkedin.com/in/eder-ander-bravo-531377271/)" target="_blank">
+  <a href="https://www.linkedin.com/in/eder-ander-bravo-531377271/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </span>
