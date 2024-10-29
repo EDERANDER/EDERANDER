@@ -5,12 +5,19 @@
 
  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-I am an undergraduate Computer science and Engineering student at IIIT-Hyderabad. C, C++, Python, Javascript, HTML, and Shell are the programming languages I am good at. I love to learn and build something new, productive, innovative and creative.
-* **I am interested in Web designing, Android development, and digital marketing**
-- 🌱 I’m currently learning ...
-  - Java
-  - React js
-- 👯 I’m looking forward to collaborate on open source projects.
-- ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
-- Outside tech, 📖 I love to read novels, 🖌️ do painting and skecthing, 🎵 listen to music, and 🌴 explore nature outdoors.
-- 📫 Reach out to me at: <a href="bhargavi.kurukunda@students.iiit.ac.in">bhargavi.kurukunda@students.iiit.ac.in</a>
+# 👋 Hi there! I'm Ander
+
+I am a Systems Engineering student at the National University of the Altiplano. I have basic knowledge of C++ and Python, but the programming language I master the most is Java. I love learning and developing new, productive, innovative, and creative things.
+
+- **I am interested in Backend development with Java.**
+
+- 🌱 Currently, I am learning ...
+  - Java, focusing on backend topics like OOP, databases, and Git/GitHub.
+
+- 👯 I’m looking forward to collaborating on open source projects.
+
+- ✔ Ask me anything; I’m happy to help if it's within my expertise! 😉
+
+- Outside of tech, 📖 I enjoy video games, 🎵 listening to music, and 🌴 exploring nature outdoors.
+
+- 📫 Contact me at: [ederander123@gmail.com](mailto:ederander123@gmail.com)
