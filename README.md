@@ -51,11 +51,11 @@ I am a Systems Engineering student at the National University of the Altiplano. 
   </a>
 </span>
 
-<h2>Github stats:</h2> 
+<h2>GitHub stats:</h2> 
 
 [![](https://github-readme-stats.vercel.app/api?username=EDERANDER&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/EDERANDER)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=EDERANDER&theme=material-palenight)](https://github.com/EDERANDER)
-</div>
+
 
 
 
