@@ -17,12 +17,10 @@ I am a Systems Engineering student at the National University of the Altiplano. 
 
 <h4> Languages </h4>
 <span> 
-
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/pythonanywhere-%232F9FD7.svg?style=for-the-badge&logo=pythonanywhere&logoColor=151515">
-  
-
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 </span>
+
 
 <h4> Frameworks </h4>
 <span>
