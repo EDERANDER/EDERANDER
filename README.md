@@ -1,16 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My Introduction</title>
-</head>
-<body>
-    <h1 align="center">Hi, I'm Eder Ander <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" alt="waving hand"></h1>
-
-    <p>// syso</p> <!-- Indicando que el siguiente código es un System.out.println en Java -->
-</body>
-</html>
+<h1 align="center">Hi , I'm Eder Ander <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 
 
