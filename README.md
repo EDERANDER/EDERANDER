@@ -56,6 +56,11 @@ I am a Systems Engineering student at the National University of the Altiplano. 
 [![](https://github-readme-stats.vercel.app/api?username=EDERANDER&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/EDERANDER)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=EDERANDER&theme=material-palenight)](https://github.com/EDERANDER)
 
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
+    alt="example" />
+</p>
+
 
 
 
